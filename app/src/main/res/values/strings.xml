@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">万众艺兴</string>
+    <string name="business_version">商家版</string>
+
+    <string name="tab_menu_remind">新订单</string>
+    <string name="tab_menu_order">已处理订单</string>
+    <string name="tab_menu_pay">门店管理</string>
+    <string name="tab_menu_setting">设置</string>
+
+    <string name="all_link_business">万众艺兴</string>
+    <string name="input_account">请输入账号</string>
+    <string name="input_password">请输入密码</string>
+    <string name="login">登录</string>
+    <string name="password_icon">passwordIcon</string>
+    <string name="user_icon">userIcon</string>
+    <string name="register">注册</string>
+    <string name="forget_password">忘记密码？</string>
+    <string name="wellcome_to_alllink">欢迎来到万众艺兴</string>
+    <string name="input_phone_number">请输入手机号（为法人手机号）</string>
+    <string name="input_verification_code">请输入验证码</string>
+    <string name="verify_password">确认密码</string>
+    <string name="get_verification_code">获取验证码</string>
+</resources>
